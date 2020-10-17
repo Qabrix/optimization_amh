@@ -1,0 +1,6 @@
+#!/bin/bash
+i=$1
+o=$2
+e=$3
+
+python zad1.py i o e

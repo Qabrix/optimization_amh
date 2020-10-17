@@ -1,0 +1,6 @@
+#!/bin/bash
+i=$1
+o=$2
+e=$3
+
+go run zad2.go i o e
